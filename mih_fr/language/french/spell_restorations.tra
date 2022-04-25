@@ -1,0 +1,211 @@
+@0   = ~Nuage de brouillard~ // name from french tlk
+@1   = ~Nuage de brouillard
+(Transmutation)
+
+Niveau : 2
+Portée : 9 m
+Durée : 1 tour
+Temps d'incantation : 2
+Zone d'effet : rayon de 4,50 mètres
+Jet de sauvegarde : aucun
+
+En lançant ce sort, le magicien crée un épais nuage de brouillard. La visibilité à l'intérieur du nuage est pratiquement nulle.Les créatures à l'intérieur du nuage sont aveuglées et invisibles.~
+@2   = ~Convocation de monstres IV~
+@3   = ~Convocation de monstres IV
+(Conjuration/Convocation)
+
+Niveau : 6
+Portée : 36 mètres
+Durée : 5 rounds + 1 round par niveau
+Temps d'incantation : 6
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Ce sort ressemble beaucoup au sort de Convocation de monstres I de 3ème niveau, excepté qu'il convoque un ou deux monstres de 6 DV. Il y a 60 % de chance d'avoir un seul monstre, et 40 % de chance d'en avoir deux. Le ou les servants apparaissent dans la portée du sortilège et attaquent les ennemis du lanceur pour toute la durée du sort, ou jusqu'à leur mort.~
+// from french tlk bg2ee @26294 and @26296 - incomplete...
+@4   = ~Invulnérabilité aux sorts~
+@5   = ~Invulnérabilité aux sorts
+(Abjuration)
+
+Niveau : 9
+Portée : 0
+Durée : 5 rounds
+Temps d'incantation : 9
+Zone d'effet : Lanceur
+Jet de sauvegarde : aucun
+
+Ce puissant sort d'abjuration protège le lanceur contre les effets néfastes des sorts. Pendant toute la durée du sort, le lanceur ne peut êtr affecté par aucun sort. Sa résistance à la magie est fixée à 100 % et ne peut être abaissée par aucun moyen, sauf en supprimant ce sort avec un Sort d'assaut ou une magie similaire. Les armes peuvent toujours blesser le lanceur, qu'elles soient magiques ou non.~
+// from french tlk bg2ee @38564 and @38565 - but mostly not applicable
+@6   = ~Amitié avec les animaux~
+@7   = ~Amitié avec les animaux
+(Enchantement/Charme)
+
+Niveau :1
+Sphère : animale
+Portée : personnelle
+Durée : 1 heure
+Temps d'incantation :9
+Zone d'effet : 1 animal
+Jet de sauvegarde : annule
+
+Ce sort doit être lancé en extérieur, sinon il n'a aucun effet. Il convoque un animal qui suivra le lanceur et attaquera ses ennemis jusqu' ce qu'il soit tué ou que le sort arrive à son terme.~
+// from french tlk bg1ee @12210 (level changes)
+@8   = ~Résistance au feu et au froid~
+@9   = ~Résistance au feu et au froid
+(Transmutation)
+
+Niveau : 1
+Sphère : Protection
+Portée : contact
+Durée : 1 tour par niveau
+Temps d'incantation : 9
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Lorsqu'un prêtre jette ce sort à une créature, le corps de celle-ci se durcit de manière à résister à la chaleur et au froid. Dans des conditions moyennes (chaleur du désert ou froid des montagnes), la protection est totale. Contre les sources de chaleur ou de froid magiques, ce sort n'offre qu'une protection partielle et réduit les dégâts de 25 %.~
+// bg2ee containsonly spell name at @294
+@10  = ~Guérison de la cécité/de la surdité~
+@11  = ~Guérison de la cécité/de la surdité
+(Abjuration)
+
+Niveau : 2
+Sphère : Nécromancie
+Portée : contact
+Durée : permanente
+Temps d'incantation : 1
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+En apposant ses mains sur une créature aveuglée ou assourdie, le prêtre peut lui rendre sa vision ou son audition normale. La guérison est permanente mais n'empêche pas la créature d'être aveuglée ou assourdie à nouveau. Certains malédictions magiques qui infligent la cécité ou la surdité ne peuvent pas être guéries par ce sort.~
+//@12  = ~The selected character is cured of blindness and deafness.~
+
+// bg2/bg2ee contains only spell name at @26274
+@13   = ~Danse irrésistible d'Otto~
+@14   = ~Danse irrésistible d'Otto
+(Enchantement/Charme)
+
+Niveau : 8
+Portée : contact
+Durée : 5 rounds
+Temps d'incantation : 5
+Zone d'effet : la créature touchée
+Jet de sauvegarde : aucun
+
+Le sujet se sent pris d’une irrépressible envie de danser et le fait en se démenant comme un beau diable. Il multiplie pirouettes et entrechats, ce qui l’empêche de faire quoi que ce soit d’autre. Sa classe d’armure est pénalisée de 4 points, ses jets de sauvegarde de 6 points. Ce sort n'accorde pas de jet de sauvegarde.~
+// bg2ee @34643 arcane version?
+@15   = ~Cercle de protection~
+@16   = ~Cercle de protection
+(Enchantement)
+
+Niveau : 1
+Portée : contact
+Durée : 1 tour par niveau
+Temps d'incantation : 6
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Ce sort crée une barrière protectrice autour de la créature touchée. La classe d'armure du bénéficiaire reçoit un bonus de 3 points, par exemple une CA de 8 devient une CA de 5. La protection peut être cumulée avec d'autres formes d'armure, comme celle accordée par un sort Armure de mage ou Bouclier. La barrière dure jusqu'à ce qu'elle soit dissipée ou jusqu'à la fin du sort.~
+// bg2ee @25868 divine version?
+@17   = ~Cercle de protection~
+@18   = ~Cercle de protection
+(Enchantement)
+
+Niveau : 1
+Sphère : Combat, Protection
+Portée : contact
+Durée : 1 tour par niveau
+Temps d'incantation : 6
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Ce sort crée une barrière protectrice autour de la créature touchée. La classe d'armure du bénéficiaire reçoit un bonus de 3 points, par exemple une CA de 8 devient une CA de 5. La protection peut être cumulée avec d'autres formes d'armure, comme celle accordée par un sort Armure de mage ou Bouclier. La barrière dure jusqu'à ce qu'elle soit dissipée ou jusqu'à la fin du sort.~
+//bg2ee @25869 and @25870 (incomplete)
+@19   = ~Révélation de la magie~
+@20   = ~Révélation de la magie
+(Divination)
+
+Niveau : 1
+Portée : 0
+Durée : Instantanée
+Temps d'incantation : 1
+Zone d'effet : rayon de 9 mètres
+Jet de sauvegarde : aucun
+
+Ce sort révèle les perturbations de la Toile sur toute créature. Toute créature à portée du sort sur laquelle un ou plusieurs sorts sont actifs s'éclairera en rouge pendant un court moment.~
+//bg2ee @25949 and @25950
+@21   = ~Tatouages de pouvoir~
+@22   = ~Tatouages de pouvoir
+(Transmutation, Évocation)
+
+Niveau : 6
+Portée : 0
+Durée : permanente
+Temps d'incantation : 1 round
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Ce sort permet au magicien de stocker des sorts et d'y accéder à partir d'un bouton de capacité spéciale. Une fois qu'il a choisi les sorts pour le tatouage, le magicien crée une capacité spéciale qui libère les sorts dans le tatouage simultanément. Cette capacité, les tatouages de pouvoir, permet de stocker deux sorts de niveau 4 ou inférieur. Un magicien ne peut posséder qu'un seul tatouage à la fois et le tatouage ne peut pas être donné à un autre joueur. Une fois que le tatouage est utilisé, l'icône de capacité spéciale disparaît.~
+@23   = ~Ajouter des sorts à vous tatouages de pouvoir~
+//unused?
+@24   = ~Épée sainte~
+@25   = ~Épée sainte
+(Transmutation)
+
+Niveau : 4
+Sphère : Combat
+Portée : contact
+Durée : 4 rounds + 1 round par niveau
+Temps d'incantation : 2
+Zone d'effet : 1 épée normale
+Jet de sauvegarde : aucun
+
+Ce sort permet au lanceur de créer une épée magique similaire à la Vengeresse sacrée recherchée par les paladins. Cette épée offre un bonus de 5 points aux jets d'attaque et de dégâts. L'épée accorde temporairement au lanceur l'aptitude nécessaire pour la manier, de sorte que le lanceur ne souffre d'aucune pénalité quand il utilise l'arme.~
+// bg2ee @12183 but modified
+@26   = ~Wall of Fire~
+@27   = ~Mur de feu
+(Évocation)
+
+Niveau : 4
+Portée : champ visuel du lanceur
+Durée : instantanée
+Temps d'incantation : 8
+Zone d'effet : 1 créature
+Jet de sauvegarde : sort, demi-dégâts
+
+Quand le magicien lance ce sort, une colonne verticale de flammes s'écrase dans un grondement à l'endroit exact indiqué par le lanceur. La cible doit effectuer un jet de sauvegarde contre les sorts. Si elle échoue, elle subit 1d8 points de dégâts par niveau du lanceur. Si elle réussit, elle ne subit que la moitié des dégâts.~
+@28  = ~Convocation de monstres V~
+@29  = ~Convocation de monstres V
+(Conjuration/Convocation)
+
+Niveau : 7
+Portée : 36 mètres
+Durée : 6 rounds + 1 round par niveau
+Temps d'incantation : 7
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Ce sort ressemble beaucoup au sort de Convocation de monstres I de 3ème niveau, excepté qu'il convoque un ou deux monstres de 7 DV. Il y a 60 % de chance d'avoir un seul monstre, et 40 % de chance d'en avoir deux. Le ou les servants apparaissent dans la portée du sortilège et attaquent les ennemis du lanceur pour toute la durée du sort, ou jusqu'à leur mort.~
+@30  = ~Convocation de monstres VI~
+@31  = ~Convocation de monstres VI
+(Conjuration/Convocation)
+
+Niveau : 8
+Portée : 36 mètres
+Durée : 7 rounds + 1 round par niveau
+Temps d'incantation : 8
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Ce sort ressemble beaucoup au sort de Convocation de monstres I de 3ème niveau, excepté qu'il convoque un ou deux monstres de 8 DV. Il y a 60 % de chance d'avoir un seul monstre, et 40 % de chance d'en avoir deux. Le ou les servants apparaissent dans la portée du sortilège et attaquent les ennemis du lanceur pour toute la durée du sort, ou jusqu'à leur mort.~
+@32  = ~Convocation de monstres VII~
+@33  = ~Convocation de monstres VII
+(Conjuration/Convocation)
+
+Niveau : 9
+Portée : 36 mètres
+Durée : 8 rounds + 1 round par niveau
+Temps d'incantation : 9
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Ce sort ressemble beaucoup au sort de Convocation de monstres I de 3ème niveau, excepté qu'il convoque un ou deux monstres de 9 DV. Il y a 60 % de chance d'avoir un seul monstre, et 40 % de chance d'en avoir deux. Le ou les servants apparaissent dans la portée du sortilège et attaquent les ennemis du lanceur pour toute la durée du sort, ou jusqu'à leur mort.~

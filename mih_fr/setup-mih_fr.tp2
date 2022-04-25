@@ -23,6 +23,11 @@ LANGUAGE "English"
 	 "mih_fr/language/english/setup-mih_fr.tra"
 	 "weidu_external/lang/mih_fr/english/setup-mih_fr.tra"
 
+LANGUAGE "French"
+        "french"
+  "mih_fr/language/french/setup-mih_fr.tra"
+  "weidu_external/lang/mih_fr/french/setup-mih_fr.tra"
+
 // ========
 // Fixpacks
 // ========
